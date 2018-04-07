@@ -1,0 +1,18 @@
+void fillMatrix(int *mass, int row, int column);
+void printMatrix(int *mass, int row, int column);
+void SortOpredStolbca(int *mass, int column, int row);
+void fillMatrixOnlyChetn(int *mass, int length, int row);
+void fillMatrixOnlyNEChetn(int *mass, int length, int row);
+void SumROW(int *mass, int row, int length);
+void Krat3(int *mass, int length, int row);
+void printArray(int *mass, int length);
+void fillArray(int *mass, int length);
+void searchOtriz(int *mass, int length);
+void absMen7(int *mass, int length);
+void SearchMaxElement(int *mas, int length);
+void SearchMinElement(int *mas, int length);
+void SrArifmOfArray(int *mas, int length);
+void searchNEotriz(int *mass, int length);
+void SearchIndexOfOtrizElementa(int *mass, int length);
+void SumOfMinANDmAx(int *mas, int length);
+void ProizvOfMinANDmAx(int *mas, int length);
